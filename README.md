@@ -22,7 +22,10 @@ Push Swap is a challenging 42 project that tasks you with sorting a stack using 
 - Limited instruction constraints
 
 ## Usage
-1. Clone this repository: `git clone git@github.com:manugonz42/Push-swap.git push_swap`
+1. Clone this repository:
+```bash
+git clone git@github.com:manugonz42/Push-swap.git push_swap
+```
 2. Navigate to the project directory: `cd push_swap`
 3. Compile the project: `make`
 4. Execute the program with the list of number to sort.
